@@ -19,7 +19,7 @@ def load_session(url,proxy): # manage each session
     profile.set_preference("network.proxy.ssl_port", port)
     profile.update_preferences()
 
-inpt = input("https://www.youtube.com/watch?v=vAa951sMoFg: ")
+inpt = input("https://youtu.be/FLL3iLNDgWI: ")
 
 inpt2 = int(5)
 
