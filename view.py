@@ -21,9 +21,9 @@ def load_session(url,proxy): # manage each session
 
 inpt = input("https://www.youtube.com/watch?v=vAa951sMoFg: ")
 
-inpt2 = float(input("5"))
+inpt2 = float(input(5))
 
-inp4 = int(input("20"))
+inp4 = int(input(20))
 
 print("Working...")
 
