@@ -19,11 +19,11 @@ def load_session(url,proxy): # manage each session
     profile.set_preference("network.proxy.ssl_port", port)
     profile.update_preferences()
 
-inpt = input("Enter youtube url: ")
+inpt = input("https://www.youtube.com/watch?v=vAa951sMoFg: ")
 
-inpt2 = float(input("Enter refresh rate(seconds): "))
+inpt2 = float(input("5 seconds "))
 
-inp4 = int(input("Enter views: "))
+inp4 = int(input("20: "))
 
 print("Working...")
 
